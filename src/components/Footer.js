@@ -24,7 +24,7 @@ const Footer = () => {
                     <FaPhone size={20} style={
                         {color:"white",marginRight:"2rem"}
                     }/>
-                    +212-625-725-861
+                    +212-000-000-000
 
                     </h4>
                 
@@ -36,7 +36,7 @@ const Footer = () => {
                     <FaMailBulk size={20} style={
                         {color:"white",marginRight:"2rem"}
                     }/>
-                    expertdevIT@gmail.com
+                    expertdevit2023@gmail.com
 
                     </h4>
                 
