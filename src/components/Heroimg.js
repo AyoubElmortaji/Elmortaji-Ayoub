@@ -7,7 +7,7 @@ const Heroimg = () => {
     <div className="hero">
         <div className="mask">
             <img className="intro-img" 
-            src="https://summeregitim.com/wp-content/uploads/2018/01/yazilim-muhendisligi-02.jpg" alt="intro-img"/>
+            src="https://images.unsplash.com/photo-1484417894907-623942c8ee29?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8Y29tcHV0ZXIlMjBzY2llbmNlfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60" alt="intro-img"/>
         </div>
 
         <div className="content">
