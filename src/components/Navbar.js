@@ -39,8 +39,8 @@ const Navbar = () => {
           </li>
         </ul>
         <div className="humberger" onClick={handleClick}>
-          {click ? (<FaTimes size={24}  style={{color:"yellow"}}/>)
-          :(<FaBars size={24}  style={{color:"#325863"}}/>)
+          {click ? (<FaTimes size={24}  style={{color:"#FF5733 "}}/>)
+          :(<FaBars size={24}  style={{color:"#FF5733 "}}/>)
         }
             
         </div>
