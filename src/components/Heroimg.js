@@ -7,7 +7,7 @@ const Heroimg = () => {
     <div className="hero">
         <div className="mask">
             <img className="intro-img" 
-            src="https://images.unsplash.com/photo-1541280910158-c4e14f9c94a3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fGJsYWNrJTIwYW5kJTIwd2hpdGUlMjBiYWNrZ3JvdW5kfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60" alt="intro-img"/>
+            src="https://miro.medium.com/max/1400/1*5_QSQauGElzmvYRyjl1Ofw.png" alt="intro-img"/>
         </div>
 
         <div className="content">
