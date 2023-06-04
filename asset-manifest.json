@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Aesoft/static/css/main.3a831e61.css",
-    "main.js": "/Aesoft/static/js/main.2dfb6650.js",
+    "main.js": "/Aesoft/static/js/main.1bba4db7.js",
     "index.html": "/Aesoft/index.html",
     "main.3a831e61.css.map": "/Aesoft/static/css/main.3a831e61.css.map",
-    "main.2dfb6650.js.map": "/Aesoft/static/js/main.2dfb6650.js.map"
+    "main.1bba4db7.js.map": "/Aesoft/static/js/main.1bba4db7.js.map"
   },
   "entrypoints": [
     "static/css/main.3a831e61.css",
-    "static/js/main.2dfb6650.js"
+    "static/js/main.1bba4db7.js"
   ]
 }
