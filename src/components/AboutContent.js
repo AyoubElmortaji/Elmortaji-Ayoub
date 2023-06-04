@@ -7,13 +7,15 @@ const AboutContent = () => {
     <div className="about">
 
         <div className="left">
-            <h1>Who We  Are ?</h1>    
+            <h1>Brief About Me </h1>    
     <p>
-    Aesoft Morocco is a Moroccan company founded by Ayoub Elmortaji.
-    The company specializes in website and application development,
-    offering technical solutions to meet various business needs. 
-    They also sell WordPress platforms, which are widely used for content management and website creation. 
-    Aesoft Morocco aims to provide quality services and solutions in the field of web development and technology.
+    Hi, I am Elmortaji Ayoub student at ENSAM CASABLANCA Morocco. As an enthusiastic programmer, I
+     am constantly developing new skills in this dynamic and exciting field. With a passion for programming
+     science, I am always eager to explore new technologies, programming languages, and trends.
+    To continue honing my skills, I take online courses and attend programming workshops and conferences. 
+    I also enjoy working on personal projects and contributing to open source projects to gain practical 
+    experience and build my portfolio. By staying curious, asking questions, and connecting with other 
+    programmers in online communities, I am able to continue growing and advancing in my career.
     </p>
             <Link to="/contact" className="btn">Contact</Link>
         </div>
