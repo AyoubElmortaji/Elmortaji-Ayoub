@@ -46,7 +46,7 @@ const Footer = () => {
             <div className="right">
                    <h4>About the Company</h4>
                    <p>
-                    This is me ELmortaji Ayoub. CEO & Founder of AESOFT MOROCCO.
+                    This is me ELmortaji Ayoub. Coder and Computer Science Reasercher
                     I enjow discussing new projects and design challenges, also helping people
                     who need solutions to their problems.
                    </p>
