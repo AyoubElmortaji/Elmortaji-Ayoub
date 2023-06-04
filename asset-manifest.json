@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Aesoft/static/css/main.3a831e61.css",
-    "main.js": "/Aesoft/static/js/main.6adb920b.js",
-    "index.html": "/Aesoft/index.html",
-    "main.3a831e61.css.map": "/Aesoft/static/css/main.3a831e61.css.map",
-    "main.6adb920b.js.map": "/Aesoft/static/js/main.6adb920b.js.map"
+    "main.css": "/Ayoub Elmortaji/static/css/main.3a831e61.css",
+    "main.js": "/Ayoub Elmortaji/static/js/main.53e6bbef.js",
+    "index.html": "/Ayoub Elmortaji/index.html",
+    "main.3a831e61.css.map": "/Ayoub Elmortaji/static/css/main.3a831e61.css.map",
+    "main.53e6bbef.js.map": "/Ayoub Elmortaji/static/js/main.53e6bbef.js.map"
   },
   "entrypoints": [
     "static/css/main.3a831e61.css",
-    "static/js/main.6adb920b.js"
+    "static/js/main.53e6bbef.js"
   ]
 }
