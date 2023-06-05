@@ -21,8 +21,8 @@
   },
   "eslintConfig": {
     "extends": [
-      "Elmortaji Ayoub",
-      "Elmortaji Ayoub/jest"
+      "react-app",
+      "react-app/jest"
     ]
   },
   "browserslist": {
