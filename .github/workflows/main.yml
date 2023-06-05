@@ -16,7 +16,7 @@ jobs:
         env:
           # TODO: make sure there are no warnings and remove this 
           CI: false # prevent treating warnings as errors
-          PUBLIC_URL: /Ayoub-Elmortaji
+          PUBLIC_URL: /Elmortaji-Ayoub
         run: |
           npm ci
           npm run build
