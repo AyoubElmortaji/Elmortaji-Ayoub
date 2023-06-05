@@ -2,4 +2,4 @@
 User-agent: *
 Disallow: 
 Allow:/
-Sitemap:https://ayoubelmortaji.github.io/Aesoft/sitemap.xml
+Sitemap:https://ayoubelmortaji.github.io/Ayoub-Elmortaji/sitemap.xml
