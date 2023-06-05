@@ -1,5 +1,8 @@
 
+User-agent: Googlebot
+Disallow: /nogooglebot/
+
 User-agent: *
-Disallow: 
-Allow:/
-Sitemap:https://ayoubelmortaji.github.io/Ayoub-Elmortaji/sitemap.xml
+Allow: /
+
+Sitemap:https://ayoubelmortaji.github.io/Elmortaji-Ayoub/sitemap.xml
