@@ -5,6 +5,6 @@ const Sitemap = require('../').default;
  
 (
     new Sitemap(router)
-        .build('https://ayoubelmortaji.github.io/Ayoub-Elmortaji/')
-        .save('./sitemap.xml')
+        .build('https://ayoubelmortaji.github.io/Elmortaji-Ayoub/')
+        .save('sitemap.xml')
 );
