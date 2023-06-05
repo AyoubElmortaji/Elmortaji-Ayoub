@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Ayoub Elmortaji/static/css/main.3a831e61.css",
-    "main.js": "/Ayoub Elmortaji/static/js/main.53e6bbef.js",
-    "index.html": "/Ayoub Elmortaji/index.html",
-    "main.3a831e61.css.map": "/Ayoub Elmortaji/static/css/main.3a831e61.css.map",
-    "main.53e6bbef.js.map": "/Ayoub Elmortaji/static/js/main.53e6bbef.js.map"
+    "main.css": "/Ayoub-Elmortaji/static/css/main.3a831e61.css",
+    "main.js": "/Ayoub-Elmortaji/static/js/main.e040cb7b.js",
+    "index.html": "/Ayoub-Elmortaji/index.html",
+    "main.3a831e61.css.map": "/Ayoub-Elmortaji/static/css/main.3a831e61.css.map",
+    "main.e040cb7b.js.map": "/Ayoub-Elmortaji/static/js/main.e040cb7b.js.map"
   },
   "entrypoints": [
     "static/css/main.3a831e61.css",
-    "static/js/main.53e6bbef.js"
+    "static/js/main.e040cb7b.js"
   ]
 }
