@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Elmortaji-Ayoub/static/css/main.3a831e61.css",
-    "main.js": "/Elmortaji-Ayoub/static/js/main.84a3aa4f.js",
+    "main.js": "/Elmortaji-Ayoub/static/js/main.db7d9d4b.js",
     "index.html": "/Elmortaji-Ayoub/index.html",
     "main.3a831e61.css.map": "/Elmortaji-Ayoub/static/css/main.3a831e61.css.map",
-    "main.84a3aa4f.js.map": "/Elmortaji-Ayoub/static/js/main.84a3aa4f.js.map"
+    "main.db7d9d4b.js.map": "/Elmortaji-Ayoub/static/js/main.db7d9d4b.js.map"
   },
   "entrypoints": [
     "static/css/main.3a831e61.css",
-    "static/js/main.84a3aa4f.js"
+    "static/js/main.db7d9d4b.js"
   ]
 }
