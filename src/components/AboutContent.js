@@ -7,7 +7,8 @@ const AboutContent = () => {
     <div className="about">
 
         <div className="left">
-            <h1>Brief About Me </h1>    
+            <h1>Brief About Me </h1>   
+    <img src="https://tryhackme-badges.s3.amazonaws.com/Ayoubelmo.png" alt="TryHackMe">
     <p>
     Hi, I am Elmortaji Ayoub student at ENSAM CASABLANCA Morocco. As an enthusiastic programmer, I
      am constantly developing new skills in this dynamic and exciting field. With a passion for programming
