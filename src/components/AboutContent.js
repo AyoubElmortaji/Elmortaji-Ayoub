@@ -8,7 +8,7 @@ const AboutContent = () => {
 
         <div className="left">
             <h1>Brief About Me </h1>   
-    <img src="https://tryhackme-badges.s3.amazonaws.com/Ayoubelmo.png" alt="TryHackMe">
+    
     <p>
     Hi, I am Elmortaji Ayoub student at ENSAM CASABLANCA Morocco. As an enthusiastic programmer, I
      am constantly developing new skills in this dynamic and exciting field. With a passion for programming
@@ -17,6 +17,7 @@ const AboutContent = () => {
     I also enjoy working on personal projects and contributing to open source projects to gain practical 
     experience and build my portfolio. By staying curious, asking questions, and connecting with other 
     programmers in online communities, I am able to continue growing and advancing in my career.
+      <img src="https://tryhackme-badges.s3.amazonaws.com/Ayoubelmo.png" alt="TryHackMe"/>
     </p>
             <Link to="/contact" className="btn">Contact</Link>
         </div>
