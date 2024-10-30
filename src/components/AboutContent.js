@@ -10,14 +10,10 @@ const AboutContent = () => {
             <h1>Brief About Me </h1>   
     
     <p>
-    Hi, I am Elmortaji Ayoub student at ENSAM CASABLANCA Morocco. As an enthusiastic programmer, I
-     am constantly developing new skills in this dynamic and exciting field. With a passion for programming
-     science, I am always eager to explore new technologies, programming languages, and trends.
-    To continue honing my skills, I take online courses and attend programming workshops and conferences. 
-    I also enjoy working on personal projects and contributing to open source projects to gain practical 
-    experience and build my portfolio. By staying curious, asking questions, and connecting with other 
-    programmers in online communities, I am able to continue growing and advancing in my career.
-      <img src="https://tryhackme-badges.s3.amazonaws.com/Ayoubelmo.png" alt="TryHackMe"/>
+  I am a first-year engineering student specializing in 𝐂𝐲𝐛𝐞𝐫𝐬𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐚𝐧𝐝 𝐂𝐥𝐨𝐮𝐝 𝐂𝐨𝐦𝐩𝐮𝐭𝐢𝐧𝐠 at 𝑬𝑵𝑺𝑨𝑴 𝑪𝒂𝒔𝒂𝒃𝒍𝒂𝒏𝒄𝒂. With a deep interest in the intricacies of 𝐜𝐲𝐛𝐞𝐫𝐬𝐞𝐜𝐮𝐫𝐢𝐭𝐲, 𝐜𝐥𝐨𝐮𝐝 𝐭𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬, 𝐀𝐫𝐭𝐢𝐟𝐢𝐜𝐢𝐚𝐥 𝐈𝐧𝐭𝐞𝐥𝐥𝐢𝐠𝐞𝐧𝐜𝐞, I am driven by a passion for understanding and mastering these dynamic fields. My journey in this realm is fueled by a desire to tackle real-world challenges and contribute to the ever-evolving landscape of technology.
+
+I believe that continuous learning and adaptation are key to success in this fast-paced environment, and I am excited about the opportunities that lie ahead as I embark on this thrilling journey in tech.
+     
     </p>
             <Link to="/contact" className="btn">Contact</Link>
         </div>
